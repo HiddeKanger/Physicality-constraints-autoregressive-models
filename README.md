@@ -1,0 +1,2 @@
+# physicality_constraints_autoregressive
+Classical quantum simulation: physicality constraints for autoregressive models
